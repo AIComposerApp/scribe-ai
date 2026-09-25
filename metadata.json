@@ -1,0 +1,8 @@
+{
+  "name": "Robbin Website",
+  "description": "Scribe AI lesson intelligence platform for tutors, featuring glassmorphic design system, yellow brand accents, custom typography, and dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
